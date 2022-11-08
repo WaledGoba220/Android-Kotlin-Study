@@ -1,3 +1,11 @@
 # Android-Kotlin-Study
 
-Scroll View (Vertical - Horizontal)
+Multi Activity Intent
+
+pass Data between Activities
+
+Activity bacstack
+
+Implicit Intent 
+
+make A phone Call
