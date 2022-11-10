@@ -4,7 +4,7 @@ Multi Activity Intent
 
 pass Data between Activities
 
-Activity bacstack
+Activity backstack
 
 Implicit Intent 
 
